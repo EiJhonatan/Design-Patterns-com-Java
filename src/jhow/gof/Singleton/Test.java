@@ -1,4 +1,4 @@
-package jhow.gof;
+package jhow.gof.Singleton;
 
 public class Test {
  public static void main(String[] args) {

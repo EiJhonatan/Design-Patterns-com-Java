@@ -1,4 +1,4 @@
-package jhow.gof;
+package jhow.gof.Singleton;
 /**
  * praticando com Singleton java puro
  * Singleton "LazyHolder"
